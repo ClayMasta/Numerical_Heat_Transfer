@@ -1,6 +1,6 @@
 using Documenter
 
-include("../src/heat-transfer.jl")
+include("../src/NumericalHeatTransfer.jl")
 
 using .HeatTransfer
 
